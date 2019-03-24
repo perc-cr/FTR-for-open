@@ -1,4 +1,4 @@
-# FTR-for-open
+# FTR-for-public
 这里将展示我们实验室可对外公开的 ___floor-tiling robot___ 的相关成果及演示
 
 这个库中包含两个branch，分别是master，slave
